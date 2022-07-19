@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		// "adpyke.CodeSnap",
+		"dracula-theme.theme-dracula",
+		"stylelint.vscode-stylelint",
+		"octref.vetur",
+		"esbenp.prettier-vscode"
+	]
+}

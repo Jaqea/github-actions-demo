@@ -1,0 +1,8 @@
+# Browsers that we support
+[production staging]
+Chrome >=70 and not dead and >0.1%
+Firefox >=60 and not dead and >0.1%
+Edge >= 94 and not dead and >0.1%
+
+[development]
+Chrome >=80 and not dead and >0.1%
